@@ -1,0 +1,12 @@
+if a in resopnse:
+
+
+Explain:
+
+a = " world "
+response = " Hello world "
+
+
+if a in resopnse:
+  print(value is availiable)
+
